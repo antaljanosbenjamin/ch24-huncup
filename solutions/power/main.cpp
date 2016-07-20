@@ -3,9 +3,9 @@
 using namespace std;
 /*
  * Explanation:
- * Create the prim-factor resolution of M, and first will the greater, and second the lesser.
- * If M is prime, then you have to comment out the second cycle. If the prim-factor resolution
- * contains more than 2 prime, you easily can extend az algorith with additional function calls.
+ * Create the prim factors of M, and first will the greater, and second the lesser.
+ * If M is prime, then you have to comment out the second variables and function calls. If the prim factors of M
+ * contains more than two primes, you can easily extend the algorithm with additional function calls.
  */
 unsigned long long int N = 95648216831484920;
 unsigned long long int first = 2;
